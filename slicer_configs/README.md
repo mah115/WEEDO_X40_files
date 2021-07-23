@@ -1,3 +1,2 @@
 # WEEDO_X40
-* CURA and PrusaSlic3r profiles for WEEDO_X40 printer.
-* SD card contents
+* For CURA profile, open the .3mf file and it should ask to import the printer.
