@@ -13,8 +13,7 @@ cd CH341SER/
 make clean
 make
 
-#if you get error "/lib/modules/4.14.50-v7+/build: No such file or directory.", then
-#run
+#if you get error "/lib/modules/4.14.50-v7+/build: No such file or directory.", then run:
 #	sudo apt-get update && sudo apt-get install --reinstall raspberrypi-bootloader raspberrypi-kernel
 #and try again
 
