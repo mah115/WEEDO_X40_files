@@ -3,3 +3,4 @@
 - sd_card: contents of the SD card shipped with the printer
 - slicer_configs: printer profiles for slicers
 - CH34x_raspi_driver_installation.md: Instructions for fixing the USB driver on a raspi
+- utilities/X40-Dual Nozzle height set tool.gcode: Tool for setting nozzle Z height
